@@ -1,5 +1,6 @@
 <h1>Linux Indonesia (linuxindonesia.com) -  2016 Template</h1>
-<b>Selalu gunakan commit untuk mengubah file dan pull-request jika ingin menerapkan perubahan</b>
+<b>Selalu gunakan commit dengan parameter -m untuk mengubah file dan pull-request jika ingin menerapkan perubahan</b>
+<br>
 Rencana untuk mengubah disain template linuxindonesia.com tahun 2016 dengan spesifikasi dasar :
 <ul>
 <li>Menggunakan HTML 5 & CSS 3</li>
