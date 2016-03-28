@@ -8,13 +8,6 @@ Rencana untuk mengubah disain template linuxindonesia.com tahun 2016 dengan spes
 <li>Kompatibel dengan editor bawaan blogger</li>
 </ul>
 
-<h2>Struktur direktori :</h2>
-template.xml
-  - stylesheet
-    main.scss
-  - script
-    main.js
-
 <h2>Kontent template.xml</h2>
 <ul>
 <li>Struktur dan sistem utama dari template ini</li>
