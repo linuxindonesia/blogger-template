@@ -18,6 +18,6 @@ template.xml
 <h2>Kontent template.xml</h2>
 <ul>
 <li>Struktur dan sistem utama dari template ini</li>
-<li>Hasil compile main.scss dengan parameter <code>--style expanded</code> di elemen style#main-stylesheet</li>
+<li>Hasil compile main.scss dengan parameter <code>--style compressed</code> di elemen style#main-stylesheet</li>
 <li>Hasil minify dari main.js di element script#main-script</li>
 </ul>
